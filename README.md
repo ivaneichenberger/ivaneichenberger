@@ -1,10 +1,10 @@
-<div align="center" style="background-color: rgb(63, 63, 63);">
+<div align="center" style="background-color: rgb(63, 63, 63)">
   <img height="300px" width="750px" src="https://i.pinimg.com/originals/6b/4c/b8/6b4cb8b6ad99f8750f2eda7a9d1218d5.gif" />
 </div>
 
 ###
 
-<h3 align="left" style="background-color: rgb(63, 63, 63); color: white;">
+<h3 align="left" style="background-color: rgb(63, 63, 63) color: white">
   I am a Frontend Developer with experience in technologies such as Angular, JavaScript, HTML, and CSS. I also have knowledge of various backend technologies like SQL and PHP. I enjoy continuously learning and working on new projects where I can contribute and grow professionally.
 </h3>
 
