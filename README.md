@@ -1,5 +1,5 @@
-<div align="center" style="background-color: rgb(63, 63, 63)">
-  <img height="300px" width="750px" src="https://i.pinimg.com/originals/6b/4c/b8/6b4cb8b6ad99f8750f2eda7a9d1218d5.gif" />
+<div align="center" style="background-color: rgb(63, 63, 63);">
+  <img src="https://files.fm/f/6sr3vwuf54" />
 </div>
 
 ###
