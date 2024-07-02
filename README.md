@@ -9,8 +9,8 @@
 </h3>
 
 ###
-
-  <div align="center" style="background-color: #f0f0f0;>
+<div style="background-color: #f0f0f0;>
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
     <img width="64" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -33,7 +33,7 @@
     <img width="64" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
   </div>
-  
+  </div>
 ###
 
 <div align="right" style="background-color: rgb(63, 63, 63);">
